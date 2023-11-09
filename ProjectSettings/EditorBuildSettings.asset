@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title Screen.unity
+    guid: 820b30e9c22d3b24b8afad2f9b5bd639
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 7b9ae164b11a97848bbb910f50c9098a
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: f8a7d492b7a6471458fe4306a492fe0f
+  - enabled: 1
+    path: Assets/Scenes/New Game.unity
+    guid: 0a8fa9604b7083041ade2b22b0243f9a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: f839cfe609f60e149a9794b6fa6140ff
+  - enabled: 1
+    path: Assets/Scenes/BeeTypes.unity
+    guid: b4199de8ec45a5f4fa44d5c3145fb874
+  - enabled: 1
+    path: Assets/Scenes/FindQueen.unity
+    guid: db04330a274e5524eaf99824f5b5298a
+  - enabled: 1
+    path: Assets/Scenes/LearnHives.unity
+    guid: 9e3a0611b39968e4b9092d54631ae36e
+  - enabled: 1
+    path: Assets/Scenes/LearnFrames.unity
+    guid: 1d823d5a3cadf7c4b86e67190a9a940e
+  - enabled: 1
+    path: Assets/Scenes/TutorialEnd.unity
+    guid: abfcdad69d4b00440aca856a67973cdc
+  - enabled: 1
+    path: Assets/Scenes/TutorialConclusion.unity
+    guid: 291ca5c73a09bdc4492d1b12e30afa4a
+  m_configObjects: {}
